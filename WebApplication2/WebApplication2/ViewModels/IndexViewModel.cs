@@ -8,6 +8,5 @@ namespace WebApplication2.ViewModels
     public class IndexViewModel
     {
         public NewVideoGameViewModel NewVideoGameViewModel { get; set; }
-
     }
 }
